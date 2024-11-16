@@ -17,7 +17,7 @@ en este mismo archivo.
 
 ¡Gracias por asistir!
 
-<!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fa5rqxdA8z4?si=M_rmeLPLFd6sDl7h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+[![Video Del Taller](https://img.youtube.com/vi/fa5rqxdA8z4/maxresdefault.jpg)](https://youtu.be/fa5rqxdA8z4)
 
 No somos expertxs. Somos Sudo.
 
